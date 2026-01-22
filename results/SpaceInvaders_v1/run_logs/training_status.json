@@ -1,0 +1,65 @@
+{
+    "SpaceInvadersAgent": {
+        "checkpoints": [
+            {
+                "steps": 307986,
+                "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-307986.onnx",
+                "reward": 1778.0999702587724,
+                "creation_time": 1749788359.7433681,
+                "auxillary_file_paths": [
+                    "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-307986.pt"
+                ]
+            },
+            {
+                "steps": 499626,
+                "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-499626.onnx",
+                "reward": 3291.71990980953,
+                "creation_time": 1749792329.8777328,
+                "auxillary_file_paths": [
+                    "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-499626.pt"
+                ]
+            },
+            {
+                "steps": 500626,
+                "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-500626.onnx",
+                "reward": 3291.71990980953,
+                "creation_time": 1749792329.9477184,
+                "auxillary_file_paths": [
+                    "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-500626.pt"
+                ]
+            },
+            {
+                "steps": 999976,
+                "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-999976.onnx",
+                "reward": null,
+                "creation_time": 1749804455.6897511,
+                "auxillary_file_paths": [
+                    "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-999976.pt"
+                ]
+            },
+            {
+                "steps": 1000976,
+                "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-1000976.onnx",
+                "reward": null,
+                "creation_time": 1749804455.7540412,
+                "auxillary_file_paths": [
+                    "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-1000976.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000976,
+            "file_path": "results\\SpaceInvaders_v1\\SpaceInvadersAgent.onnx",
+            "reward": null,
+            "creation_time": 1749804455.7540412,
+            "auxillary_file_paths": [
+                "results\\SpaceInvaders_v1\\SpaceInvadersAgent\\SpaceInvadersAgent-1000976.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}
